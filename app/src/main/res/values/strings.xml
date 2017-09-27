@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">WelCome</string>
+<string name="btnCurrent">現在時刻</string>
+<string name="hello_world">こんにちは世界!</string>
+</resources>
